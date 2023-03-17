@@ -1,0 +1,10 @@
+# Ignorando um unico arquivo
+wallpaper.png
+
+# Ignorando arqivos de uma extensao predefinida
+*.png
+
+# Ignorando pastas/diretorios
+vendor/
+node_modules/
+docs/
